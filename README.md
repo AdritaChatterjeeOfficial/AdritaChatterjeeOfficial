@@ -71,5 +71,6 @@
 
 ---
 <div align="center">
+  <h2>🎮 Contribution Graph</h2>
   <img src="https://raw.githubusercontent.com/AdritaChatterjeeOfficial/AdritaChatterjeeOfficial/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
 </div>
